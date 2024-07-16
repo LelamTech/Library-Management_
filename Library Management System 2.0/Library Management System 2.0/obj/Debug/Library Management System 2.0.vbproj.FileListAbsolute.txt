@@ -1,0 +1,14 @@
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\obj\Debug\Library Management System 2.0.vbproj.AssemblyReference.cache
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\obj\Debug\Library_Management_System_2._0.Form1.resources
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\obj\Debug\Library_Management_System_2._0.Resources.resources
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\obj\Debug\Library Management System 2.0.vbproj.GenerateResource.cache
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\obj\Debug\Library Management System 2.0.vbproj.CoreCompileInputs.cache
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\bin\Debug\Database1.mdf
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\bin\Debug\Database1_log.ldf
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\bin\Debug\Library Management System 2.0.exe.config
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\bin\Debug\Library Management System 2.0.exe
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\bin\Debug\Library Management System 2.0.pdb
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\bin\Debug\Library Management System 2.0.xml
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\obj\Debug\Library Management System 2.0.exe
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\obj\Debug\Library Management System 2.0.xml
+C:\Users\KEEP OUT\source\repos\Library Management System 2.0\Library Management System 2.0\obj\Debug\Library Management System 2.0.pdb
