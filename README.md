@@ -1,63 +1,63 @@
 📚 Library-Management_
 Introduction
 
-Library-Management_ is a digital library system developed to help institutions efficiently manage their collections and user interactions. It streamlines book cataloging, borrowing, returns, and reporting, reducing manual errors while giving students and librarians a reliable platform to interact with library resources.
+Library-Management_ is a desktop application developed in Visual Basic.NET to assist institutions in managing their library operations more efficiently. The system provides a simple yet powerful way to organize books, manage users, track borrowing and returns, and generate reports, reducing manual paperwork and errors in traditional library systems.
 
 Objectives
 
-To automate daily library operations such as issuing and returning books.
+Automate routine library tasks such as borrowing, returning, and cataloging.
 
-To provide students with quick access to search and locate resources.
+Provide a structured system for user accounts (students, librarians, administrators).
 
-To assist librarians in monitoring borrowing history and overdue fines.
+Ensure accurate tracking of due dates and overdue fines.
 
-To generate accurate reports on resource usage and availability.
+Offer searchable access to library resources with minimal effort.
 
 Core Modules ✨
 
-Book Catalog Management – Add, update, and categorize books with unique identifiers.
+Book Catalog Management – Add, edit, delete, and categorize books with ISBN and unique identifiers.
 
-User Management – Maintain accounts for librarians, administrators, and students.
+User Accounts – Manage librarian, student, and administrator profiles.
 
-Borrowing & Returns – Issue books, track due dates, and handle returns seamlessly.
+Borrowing & Returns – Record book issues and returns while updating availability in real time.
 
-Fine Calculation – Automatically calculate overdue fines and notify users.
+Fine Calculation – Automatically compute overdue fines and log them against user accounts.
 
-Search System – Allow users to search by title, author, subject, or ISBN.
+Search & Filter – Quickly find books by title, author, subject, or code.
 
-Reports – Generate summaries on borrowing history, most borrowed books, and overdue lists.
+Reports & Analytics – Generate summaries of borrowed items, overdue books, and usage trends.
 
 Benefits 🛠️
 
-Saves time and reduces paperwork for librarians.
+Easy-to-use desktop interface for librarians and staff.
 
-Provides students with an easy way to find and borrow resources.
+Reduces manual effort and paperwork in daily operations.
 
-Enhances accountability with clear borrowing and return records.
+Provides accurate data and history for accountability.
 
-Improves decision-making through analytics and reporting tools.
+Enhances user experience for students through faster resource access.
 
 Technology Stack
 
-Frontend: React / Angular
+Language: Visual Basic.NET (VB.NET)
 
-Backend: Node.js (Express) / Django
+Framework: .NET Framework / .NET Core
 
-Database: MySQL / PostgreSQL
+Database: Microsoft SQL Server or MS Access
 
-Authentication: Role-based access (Admin, Librarian, Student)
+IDE: Visual Studio
 
-Hosting: AWS, Heroku, or Firebase
+Authentication: Role-based access system
 
 Future Plans 🛤️
 
-Integration with e-book repositories and digital journals
+Integration with digital library resources (e-books, journals).
 
-Mobile app version for Android and iOS
+Barcode/QR code support for faster book issue and returns.
 
-AI-powered book recommendation engine
+Cloud database support for multi-branch institutions.
 
-QR code-based quick borrowing and returns
+Extended reporting with data visualization dashboards.
 
 Contact 📧
 
